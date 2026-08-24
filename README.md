@@ -21,13 +21,16 @@ Puedes clonar el repositorio y ejecutar cualquier archivo directamente con **Nod
 
 ```bash
 # Clonar el repositorio
-git clone [https://github.com/tocanto/modern-js-cheatsheet.git](https://github.com/tocanto/modern-js-cheatsheet.git)
+git clone https://github.com/tocanto/modern-js-cheatsheet.git
 
 # Entrar a la carpeta
 cd modern-js-cheatsheet
 
 # Ejecutar un snippet
 node arrays/toSorted.js
-
+```
 ## 👨‍💻 Autor
-Creado por [**@tocantodev**](https://x.com/tocantodev). Sígueme en X para cápsulas diarias sobre JavaScript, TypeScript y React.
+
+Creado por **Timmy Ocanto**  
+🐦 Sígueme en X: [**@tocantodev**](https://x.com/tocantodev)  
+💼 Conectemos en LinkedIn: [**in/tocanto**](https://www.linkedin.com/in/tocanto/)
