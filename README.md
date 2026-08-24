@@ -11,6 +11,7 @@
 | **Arrays** | `Object.groupBy()` | Agrupación nativa y declarativa sin usar `.reduce()` | [`groupBy.js`](./arrays/groupBy.js) |
 | **Sets** | `Set.prototype.intersection()` | Intersección nativa entre conjuntos | [`intersection.js`](./sets/intersection.js) |
 | **Arrays** | `Array.prototype.toSorted()` | Ordenamiento inmutable de arrays sin mutar el original | [`toSorted.js`](./arrays/toSorted.js) |
+| **Objects** | `structuredClone()` | Clonación profunda nativa (*deep clone*) sin hacks de JSON | [`structuredClone.js`](./objects/structuredClone.js) |
 
 ---
 
@@ -29,4 +30,4 @@ cd modern-js-cheatsheet
 node arrays/toSorted.js
 
 👨‍💻 Autor
-Creado por @tocantodev. Sígueme en X para cápsulas diarias sobre JavaScript, TypeScript y React.
+Creado por [@tocantodev](https://x.com/tocantodev). Sígueme en X para cápsulas diarias sobre JavaScript, TypeScript y React.
