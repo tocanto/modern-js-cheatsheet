@@ -17,11 +17,11 @@
 
 ## 🚀 Cómo ejecutar los ejemplos
 
-Puedes clonar el repositorio y ejecutar cualquier archivo directamente con **Node.js** (versión 22+ recomendada):
+Puedes clonar el repositorio y ejecutar cualquier archivo directamente con **Node.js** (versión 18+ recomendada):
 
 ```bash
 # Clonar el repositorio
-git clone [https://github.com/tocanto/modern-js-cheatsheet](https://github.com/tocanto/modern-js-cheatsheet)
+git clone [https://github.com/tocanto/modern-js-cheatsheet.git](https://github.com/tocanto/modern-js-cheatsheet.git)
 
 # Entrar a la carpeta
 cd modern-js-cheatsheet
@@ -29,5 +29,5 @@ cd modern-js-cheatsheet
 # Ejecutar un snippet
 node arrays/toSorted.js
 
-👨‍💻 Autor
-Creado por [@tocantodev](https://x.com/tocantodev). Sígueme en X para cápsulas diarias sobre JavaScript, TypeScript y React.
+## 👨‍💻 Autor
+Creado por [**@tocantodev**](https://x.com/tocantodev). Sígueme en X para cápsulas diarias sobre JavaScript, TypeScript y React.
