@@ -12,6 +12,7 @@
 | **Sets** | `Set.prototype.intersection()` | Intersección nativa entre conjuntos | [`intersection.js`](./sets/intersection.js) |
 | **Arrays** | `Array.prototype.toSorted()` | Ordenamiento inmutable de arrays sin mutar el original | [`toSorted.js`](./arrays/toSorted.js) |
 | **Objects** | `structuredClone()` | Clonación profunda nativa (*deep clone*) sin hacks de JSON | [`structuredClone.js`](./objects/structuredClone.js) |
+| **Arrays** | `Array.prototype.with()` | Actualización inmutable de elementos por índice (soporta índices negativos) | [`with.js`](./arrays/with.js) |
 
 ---
 
