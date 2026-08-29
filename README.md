@@ -16,6 +16,7 @@
 | **Arrays** | `Array.prototype.findLast()` | Búsqueda inversa eficiente de elementos e índices desde el final | [`findLast.js`](./arrays/findLast.js) |
 | **Arrays** | `Array.prototype.toSpliced()` | Eliminación e inserción inmutable de elementos por índice | [`toSpliced.js`](./arrays/toSpliced.js) |
 | **Async** | `Promise.withResolvers()` | Extracción nativa de `{ promise, resolve, reject }` sin variables externas | [`withResolvers.js`](./async/withResolvers.js) |
+| **DOM** | `Element.checkVisibility()` | Comprobación nativa de visibilidad en UI sin forzar reflows costosos | [`checkVisibility.js`](./dom/checkVisibility.js) |
 
 ---
 
