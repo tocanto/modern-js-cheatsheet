@@ -18,6 +18,7 @@
 | **Async** | `Promise.withResolvers()` | Extracción nativa de `{ promise, resolve, reject }` sin variables externas | [`withResolvers.js`](./async/withResolvers.js) |
 | **DOM** | `Element.checkVisibility()` | Comprobación nativa de visibilidad en UI sin forzar reflows costosos | [`checkVisibility.js`](./dom/checkVisibility.js) |
 | **Strings** | `String.prototype.replaceAll()` | Reemplazo global de subcadenas sin usar expresiones regulares complejas | [`replaceAll.js`](./strings/replaceAll.js) |
+| **Operators** | `Nullish Coalescing (??)` | Asignación segura de valores por defecto diferenciando *nullish* de *falsy* | [`nullishCoalescing.js`](./operators/nullishCoalescing.js) |
 
 ---
 
