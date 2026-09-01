@@ -9,8 +9,8 @@
 - [📦 Arrays](#-arrays)
 - [⏳ Async](#-async)
 - [🌐 DOM & Browser APIs](#-dom--browser-apis)
-- [🗂️ Objects](#️-objects)
-- [⚙️ Operators & Logic](#️-operators--logic)
+- [🗂️ Objects](#-objects)
+- [⚙️ Operators & Logic](#-operators--logic)
 - [🧩 Sets](#-sets)
 - [🔤 Strings](#-strings)
 
