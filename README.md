@@ -4,21 +4,75 @@
 
 ---
 
-## 📌 Índice de Snippets
+## 📌 Categorías Rápidas
 
-| Categoría | Característica / API | Descripción breve | Archivo |
-| :--- | :--- | :--- | :--- |
-| **Arrays** | `Object.groupBy()` | Agrupación nativa y declarativa sin usar `.reduce()` | [`groupBy.js`](./arrays/groupBy.js) |
-| **Sets** | `Set.prototype.intersection()` | Intersección nativa entre conjuntos | [`intersection.js`](./sets/intersection.js) |
-| **Arrays** | `Array.prototype.toSorted()` | Ordenamiento inmutable de arrays sin mutar el original | [`toSorted.js`](./arrays/toSorted.js) |
-| **Objects** | `structuredClone()` | Clonación profunda nativa (*deep clone*) sin hacks de JSON | [`structuredClone.js`](./objects/structuredClone.js) |
-| **Arrays** | `Array.prototype.with()` | Actualización inmutable de elementos por índice (soporta índices negativos) | [`with.js`](./arrays/with.js) |
-| **Arrays** | `Array.prototype.findLast()` | Búsqueda inversa eficiente de elementos e índices desde el final | [`findLast.js`](./arrays/findLast.js) |
-| **Arrays** | `Array.prototype.toSpliced()` | Eliminación e inserción inmutable de elementos por índice | [`toSpliced.js`](./arrays/toSpliced.js) |
-| **Async** | `Promise.withResolvers()` | Extracción nativa de `{ promise, resolve, reject }` sin variables externas | [`withResolvers.js`](./async/withResolvers.js) |
-| **DOM** | `Element.checkVisibility()` | Comprobación nativa de visibilidad en UI sin forzar reflows costosos | [`checkVisibility.js`](./dom/checkVisibility.js) |
-| **Strings** | `String.prototype.replaceAll()` | Reemplazo global de subcadenas sin usar expresiones regulares complejas | [`replaceAll.js`](./strings/replaceAll.js) |
-| **Operators** | `Nullish Coalescing (??)` | Asignación segura de valores por defecto diferenciando *nullish* de *falsy* | [`nullishCoalescing.js`](./operators/nullishCoalescing.js) |
+- [📦 Arrays](#-arrays)
+- [⏳ Async](#-async)
+- [🌐 DOM & Browser APIs](#-dom--browser-apis)
+- [🗂️ Objects](#️-objects)
+- [⚙️ Operators & Logic](#️-operators--logic)
+- [🧩 Sets](#-sets)
+- [🔤 Strings](#-strings)
+
+---
+
+## 📦 Arrays
+
+| Característica / API | Descripción breve | Archivo |
+| :--- | :--- | :--- |
+| `Object.groupBy()` | Agrupación nativa y declarativa sin usar `.reduce()` | [`groupBy.js`](./arrays/groupBy.js) |
+| `Array.prototype.toSorted()` | Ordenamiento inmutable de arrays sin mutar el original | [`toSorted.js`](./arrays/toSorted.js) |
+| `Array.prototype.toSpliced()` | Eliminación e inserción inmutable de elementos por índice | [`toSpliced.js`](./arrays/toSpliced.js) |
+| `Array.prototype.with()` | Actualización inmutable por índice (soporta índices negativos) | [`with.js`](./arrays/with.js) |
+| `Array.prototype.findLast()` | Búsqueda inversa eficiente de elementos e índices desde el final | [`findLast.js`](./arrays/findLast.js) |
+
+---
+
+## ⏳ Async
+
+| Característica / API | Descripción breve | Archivo |
+| :--- | :--- | :--- |
+| `Promise.withResolvers()` | Extracción nativa de `{ promise, resolve, reject }` sin variables externas | [`withResolvers.js`](./async/withResolvers.js) |
+
+---
+
+## 🌐 DOM & Browser APIs
+
+| Característica / API | Descripción breve | Archivo |
+| :--- | :--- | :--- |
+| `Element.checkVisibility()` | Comprobación nativa de visibilidad en UI sin forzar reflows costosos | [`checkVisibility.js`](./dom/checkVisibility.js) |
+
+---
+
+## 🗂️ Objects
+
+| Característica / API | Descripción breve | Archivo |
+| :--- | :--- | :--- |
+| `structuredClone()` | Clonación profunda nativa (*deep clone*) sin hacks de JSON | [`structuredClone.js`](./objects/structuredClone.js) |
+
+---
+
+## ⚙️ Operators & Logic
+
+| Característica / API | Descripción breve | Archivo |
+| :--- | :--- | :--- |
+| `Nullish Coalescing (??)` | Asignación segura de valores por defecto diferenciando *nullish* de *falsy* | [`nullishCoalescing.js`](./operators/nullishCoalescing.js) |
+
+---
+
+## 🧩 Sets
+
+| Característica / API | Descripción breve | Archivo |
+| :--- | :--- | :--- |
+| `Set.prototype.intersection()` | Intersección nativa entre conjuntos | [`intersection.js`](./sets/intersection.js) |
+
+---
+
+## 🔤 Strings
+
+| Característica / API | Descripción breve | Archivo |
+| :--- | :--- | :--- |
+| `String.prototype.replaceAll()` | Reemplazo global de subcadenas sin usar expresiones regulares complejas | [`replaceAll.js`](./strings/replaceAll.js) |
 
 ---
 
