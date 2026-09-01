@@ -9,8 +9,8 @@
 - [📦 Arrays](#-arrays)
 - [⏳ Async](#-async)
 - [🌐 DOM & Browser APIs](#-dom--browser-apis)
-- [🗂️ Objects](#-objects)
-- [⚙️ Operators & Logic](#-operators--logic)
+- [🗂️ Objects](#objects)
+- [⚙️ Operators & Logic](#operators--logic)
 - [🧩 Sets](#-sets)
 - [🔤 Strings](#-strings)
 
@@ -44,7 +44,7 @@
 
 ---
 
-## 🗂️ Objects
+## <a id="objects"></a>🗂️ Objects
 
 | Característica / API | Descripción breve | Archivo |
 | :--- | :--- | :--- |
@@ -52,7 +52,7 @@
 
 ---
 
-## ⚙️ Operators & Logic
+## <a id="operators--logic"></a>⚙️ Operators & Logic
 
 | Característica / API | Descripción breve | Archivo |
 | :--- | :--- | :--- |
