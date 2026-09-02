@@ -41,6 +41,7 @@
 | Característica / API | Descripción breve | Archivo |
 | :--- | :--- | :--- |
 | `Element.checkVisibility()` | Comprobación nativa de visibilidad en UI sin forzar reflows costosos | [`checkVisibility.js`](./dom/checkVisibility.js) |
+| `AbortController` | Cancelación nativa de peticiones `fetch` y limpieza masiva de `eventListeners` | [`abortController.js`](./dom/abortController.js) |
 
 ---
 
