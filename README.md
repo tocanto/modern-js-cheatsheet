@@ -50,6 +50,7 @@
 | Característica / API | Descripción breve | Archivo |
 | :--- | :--- | :--- |
 | `structuredClone()` | Clonación profunda nativa (*deep clone*) sin hacks de JSON | [`structuredClone.js`](./objects/structuredClone.js) |
+| `Object.freeze()` & Deep Freeze | Prevención de mutaciones accidentales y técnica de congelación profunda | [`deepFreeze.js`](./objects/deepFreeze.js) |
 
 ---
 
