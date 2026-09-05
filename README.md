@@ -67,6 +67,7 @@
 | Característica / API | Descripción breve | Archivo |
 | :--- | :--- | :--- |
 | `Set.prototype.intersection()` | Intersección nativa entre conjuntos | [`intersection.js`](./sets/intersection.js) |
+| `Set.prototype.difference()` | Diferencia relativa entre conjuntos sin conversiones a arrays | [`difference.js`](./sets/difference.js) |
 
 ---
 
