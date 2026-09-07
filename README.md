@@ -52,6 +52,7 @@
 | :--- | :--- | :--- |
 | `structuredClone()` | Clonación profunda nativa (*deep clone*) sin hacks de JSON | [`structuredClone.js`](./objects/structuredClone.js) |
 | `Object.freeze()` & Deep Freeze | Prevención de mutaciones accidentales y técnica de congelación profunda | [`deepFreeze.js`](./objects/deepFreeze.js) |
+| `Object.fromEntries()` | Reconstrucción y filtrado de objetos desde pares clave-valor | [`fromEntries.js`](./objects/fromEntries.js) |
 
 ---
 
