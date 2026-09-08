@@ -61,6 +61,7 @@
 | Característica / API | Descripción breve | Archivo |
 | :--- | :--- | :--- |
 | `Nullish Coalescing (??)` | Asignación segura de valores por defecto diferenciando *nullish* de *falsy* | [`nullishCoalescing.js`](./operators/nullishCoalescing.js) |
+| Logical Assignment (`??=`, `\|=`, `&&=`) | Asignaciones lógicas con evaluación en cortocircuito | [`logicalAssignment.js`](./operators/logicalAssignment.js) |
 
 ---
 
