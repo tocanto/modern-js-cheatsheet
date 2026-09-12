@@ -34,6 +34,7 @@
 | :--- | :--- | :--- |
 | `Promise.withResolvers()` | Extracción nativa de `{ promise, resolve, reject }` sin variables externas | [`withResolvers.js`](./async/withResolvers.js) |
 | `Promise.allSettled()` | Ejecución paralela resiliente sin abortar ante promesas rechazadas | [`allSettled.js`](./async/allSettled.js) |
+| `Promise.any()` | Retorna la primera promesa cumplida ignorando rechazos previos | [`promiseAny.js`](./async/promiseAny.js) |
 
 ---
 
