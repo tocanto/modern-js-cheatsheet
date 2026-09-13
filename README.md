@@ -64,6 +64,7 @@
 | :--- | :--- | :--- |
 | `Nullish Coalescing (??)` | Asignación segura de valores por defecto diferenciando *nullish* de *falsy* | [`nullishCoalescing.js`](./operators/nullishCoalescing.js) |
 | Logical Assignment (`??=`, `\|=`, `&&=`) | Asignaciones lógicas con evaluación en cortocircuito | [`logicalAssignment.js`](./operators/logicalAssignment.js) |
+| Optional Chaining (`?.`) | Acceso seguro a propiedades anidadas, índices de arrays e invocación de callbacks | [`optionalChaining.js`](./operators/optionalChaining.js) |
 
 ---
 
