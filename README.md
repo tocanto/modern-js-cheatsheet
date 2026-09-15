@@ -45,6 +45,7 @@
 | `Element.checkVisibility()` | Comprobación nativa de visibilidad en UI sin forzar reflows costosos | [`checkVisibility.js`](./dom/checkVisibility.js) |
 | `AbortController` | Cancelación nativa de peticiones `fetch` y limpieza masiva de `eventListeners` | [`abortController.js`](./dom/abortController.js) |
 | `IntersectionObserver` | Detección asíncrona de visibilidad y viewport sin sobrecargar el scroll | [`intersectionObserver.js`](./dom/intersectionObserver.js) |
+| `ResizeObserver` | Observación reactiva de dimensiones por elemento sin depender de window.resize | [`resizeObserver.js`](./dom/resizeObserver.js) |
 
 ---
 
