@@ -87,6 +87,7 @@
 | `String.prototype.replaceAll()` | Reemplazo global de subcadenas sin usar expresiones regulares complejas | [`replaceAll.js`](./strings/replaceAll.js) |
 | `String.prototype.matchAll()` | Extracción iterativa de coincidencias completas y grupos de captura | [`matchAll.js`](./strings/matchAll.js) |
 | `padStart()` / `padEnd()` | Relleno y alineación declarativa de cadenas a una longitud fija | [`padding.js`](./strings/padding.js) |
+| RegExp Flag `v` | Operaciones de conjuntos (sustracción `--`, intersección `&&`) y emojis avanzados (ES2024) | [`regexFlagV.js`](./strings/regexFlagV.js) |
 
 ---
 
