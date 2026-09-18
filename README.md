@@ -77,6 +77,7 @@
 | `Set.prototype.intersection()` | Intersección nativa entre conjuntos | [`intersection.js`](./sets/intersection.js) |
 | `Set.prototype.difference()` | Diferencia relativa entre conjuntos sin conversiones a arrays | [`difference.js`](./sets/difference.js) |
 | `Set.prototype.union()` | Combinación de dos conjuntos únicos sin arrays temporales (ES2024) | [`union.js`](./sets/union.js) |
+| `Set.prototype.symmetricDifference()` | Elementos presentes en un conjunto o en otro, pero no en ambos (ES2024) | [`symmetricDifference.js`](./sets/symmetricDifference.js) |
 
 ---
 
