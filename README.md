@@ -60,6 +60,7 @@
 | `Object.fromEntries()` | Reconstrucción y filtrado de objetos desde pares clave-valor | [`fromEntries.js`](./objects/fromEntries.js) |
 | `Intl.Segmenter` | Segmentación consciente de idioma para grafemas, emojis y palabras | [`intlSegmenter.js`](./objects/intlSegmenter.js) |
 | `Object.hasOwn()` | Verificación directa y segura de propiedades propias sin fallos de prototipo | [`hasOwn.js`](./objects/hasOwn.js) |
+| Transferable Objects (`structuredClone`) | Transferencia de memoria en tiempo O(1) para ArrayBuffers sin duplicar RAM | [`transferableClone.js`](./objects/transferableClone.js) |
 
 ---
 
