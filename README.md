@@ -25,6 +25,7 @@
 | `Array.prototype.toSpliced()` | Eliminación e inserción inmutable de elementos por índice | [`toSpliced.js`](./arrays/toSpliced.js) |
 | `Array.prototype.with()` | Actualización inmutable por índice (soporta índices negativos) | [`with.js`](./arrays/with.js) |
 | `Array.prototype.findLast()` | Búsqueda inversa eficiente de elementos e índices desde el final | [`findLast.js`](./arrays/findLast.js) |
+| `Array.prototype.at()` | Indexación relativa directa con soporte para índices negativos (ES2022) | [`at.js`](./arrays/at.js) |
 
 ---
 
