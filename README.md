@@ -39,6 +39,7 @@
 | `AbortSignal.timeout()` | Señal nativa autolimpiable para fijar tiempo límite a tareas y peticiones | [`signalTimeout.js`](./async/signalTimeout.js) |
 | Iterator Helpers | Métodos `.map()`, `.filter()`, `.take()` con evaluación perezosa en iteradores (ES2025) | [`iteratorHelpers.js`](./async/iteratorHelpers.js) |
 | `scheduler.yield()` | Concurrencia cooperativa para trocear tareas pesadas sin congelar la UI | [`schedulerYield.js`](./async/schedulerYield.js) |
+| `AbortSignal.any()` | Composición declarativa de múltiples señales de cancelación (ES2024) | [`signalAny.js`](./async/signalAny.js) |
 
 ---
 
